@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30219.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HearthstoneTracker.ExcelAddIn", "HearthstoneTracker.ExcelAddIn\HearthstoneTracker.ExcelAddIn.csproj", "{8019BA5F-C193-4FF0-83A9-B138B2A8DB86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HearthstoneTracker.ExcelAddIn.Model", "HearthstoneTracker.ExcelModel\HearthstoneTracker.ExcelAddIn.Model.csproj", "{67323635-3B6A-4520-A5B3-D7200045D7AF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{D6DD2CF5-AC4B-4239-BEB6-75D4F6697B81}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8019BA5F-C193-4FF0-83A9-B138B2A8DB86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8019BA5F-C193-4FF0-83A9-B138B2A8DB86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8019BA5F-C193-4FF0-83A9-B138B2A8DB86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8019BA5F-C193-4FF0-83A9-B138B2A8DB86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67323635-3B6A-4520-A5B3-D7200045D7AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67323635-3B6A-4520-A5B3-D7200045D7AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67323635-3B6A-4520-A5B3-D7200045D7AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67323635-3B6A-4520-A5B3-D7200045D7AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
