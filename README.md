@@ -5,7 +5,7 @@ How to install?
 -------------
 
 * Download the latest release. 
-* Extract the zipfile and run HearthstoneTracker.ExcelAddIn.vsto
+* Extract the zipfile and run setup.exe
 
 How to use?
 -------------
